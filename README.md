@@ -1,4 +1,4 @@
-# <h1 align="center">Advanced Image Classification with Residual CNN</h1>
+<h1 align="center">Advanced Image Classification with Residual CNN</h1>
 
 <p align="center">
   <img src="Image.jpg" alt="CIFAR-10 Classification" width="600"/>
@@ -45,7 +45,7 @@ A state-of-the-art deep learning project implementing an advanced Convolutional 
   - Comprehensive evaluation and analysis
   - Advanced visualization and interpretability
   - Proper train/validation/test splits
-- **Technologies**: PyTorch, Python, Scikit-learn, Matplotlib, Seaborn
+- **Technologies**: PyTorch, Python, Scikit-learn, Matplotlib, Seaborn, NumPy
 
 ---
 
@@ -109,7 +109,6 @@ Linear(512→10)
 ```bash
 # 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/Advanced-CIFAR10-ResNet-Classification.git
-cd Advanced-CIFAR10-ResNet-Classification
 
 # 2. Set up virtual environment (recommended)
 python3 -m venv venv
@@ -119,7 +118,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # 4. Launch Jupyter Notebook
-jupyter notebook IMAGEBRUH-1.ipynb
+jupyter notebook image_classification.ipynb
 ```
 
 ---
