@@ -108,7 +108,7 @@ Linear(512→10)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Advanced-CIFAR10-ResNet-Classification.git
+git clone https://github.com/X-XENDROME-X/Advanced-ResNet-Image-Classification.git
 
 # 2. Set up virtual environment (recommended)
 python3 -m venv venv
